@@ -1,5 +1,6 @@
 # Welcome!
-[anchor](#Data-Science)
+[Data-Science](#Data-Science)
+[Programming](#Programming)
 ## About me
 
 I am a recent Ph.D. graduate in Applied Mathematics from University of Georgia. You will find here scripts and articles on projects I am working on currently. Some of them might be of the 'academic' flavor and the rest are more geared towards 'industry'.
@@ -16,3 +17,5 @@ If you are searching for step by step blueprint to guide your journey to become 
  7. _Other Miscellaneous Skills_
 
 
+# Math
+# Programming
